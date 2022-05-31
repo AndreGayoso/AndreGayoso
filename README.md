@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreGayoso
+- 👋 Hi!
 - 👀 I’m interested in almost anything computer related
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on interesting projects to enhance my skills
